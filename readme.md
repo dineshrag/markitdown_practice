@@ -1,6 +1,7 @@
 # Microsoft Markitdown Utility: Practical Use Cases and LLAMA, LLAVA Integration
 
 The Microsoft Markitdown utility facilitates the conversion of PDF, HTML, CSV, JSON, XML, and Microsoft Office files into markdown files with ease.
+![Project](./img/markitdown_bg_final.png)
 
 ## Overview
 
